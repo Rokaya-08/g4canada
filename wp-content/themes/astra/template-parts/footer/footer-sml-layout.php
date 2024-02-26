@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Template for Small Footer Layout 1
  *
